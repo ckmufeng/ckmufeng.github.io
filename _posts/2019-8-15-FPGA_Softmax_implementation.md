@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      FPGA Softmax 
-subtitle:    "\"FPGA Softmax inplementation\""
+subtitle:   FPGA Softmax inplementation
 date:       2019-08-15
 author:     BY ckmufeng
 header-img: img/post-bg-2015.jpg
@@ -10,7 +10,7 @@ tags:
     - FPGA
 ---
 
->FPGA Softmax Implementation
+> FPGA Softmax Implementation
 
 # FPGA Softmax Implementation
 
