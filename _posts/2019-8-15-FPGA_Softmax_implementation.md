@@ -3,13 +3,14 @@ layout:     post
 title:      FPGA Softmax 
 subtitle:    "\"FPGA Softmax inplementation\""
 date:       2019-08-15
-author:     BY
+author:     BY ckmufeng
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - FPGA
 ---
 
+>FPGA Softmax Implementation
 
 # FPGA Softmax Implementation
 
@@ -29,4 +30,3 @@ tags:
 
 4、非分段的方法，如泰勒展开。
 
----
