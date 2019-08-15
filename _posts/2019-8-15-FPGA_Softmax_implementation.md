@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      FPGA Softmax 
+subtitle:    "\"FPGA Softmax inplementation\""
+date:       2019-08-15
+author:     BY
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - FPGA
+---
+
+
 # FPGA Softmax Implementation
 
 ## 方案1-分段线性
@@ -15,3 +28,5 @@
 3、取对数法，可以不用考虑除法的实现，但需要设计FPGA实现ln。减小latency；
 
 4、非分段的方法，如泰勒展开。
+
+---
